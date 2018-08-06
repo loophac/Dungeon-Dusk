@@ -10,8 +10,5 @@ The game is currently in Pre-Packaged Beta v1.0, meaning all cards and manuals h
 All changes to the game can be requested via a proper pull request. Enjoy!
 
 
-All cards are made using the RPG-Cards repo by Crobi found here: https://crobi.github.io/rpg-cards/
-
-
 
 *art used as door, chest and class logos are royalty free images that do not belong to Christian Doucette
