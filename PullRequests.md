@@ -2,9 +2,7 @@ If you are trying to create new cards:
 
  -Fork the repo
  
- -Download the Cards.json file and go to https://crobi.github.io/rpg-cards/generator/generate.html
- 
- -Select "Load from file" and you'll have access to all of our cards.
+ -Go to https://crobi.github.io/rpg-cards/generator/generate.html
  
  -Click "Add New Card" and design your card.
  
