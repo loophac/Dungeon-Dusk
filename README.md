@@ -1,4 +1,4 @@
-# Dungeon-Dusk
+# Dungeon Dusk
 © Copyright Christian Doucette 2018
 
 A board game based on dungeon diving with insane twists, vile bosses, and infuriating concepts.
