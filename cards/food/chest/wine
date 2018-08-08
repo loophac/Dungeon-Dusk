@@ -1,0 +1,12 @@
+Chest item
+A simple ingredient used in potions and food.
+If eaten
+Dizziness
+-1 attack for two turns
++ 1 health
+If eaten 3 times in a row
+Drunkeness
+-5 attack for two turns
+-3 defense for two turns
+If eaten 4+ times in a row
+Skip next turn
