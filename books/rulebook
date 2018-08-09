@@ -21,6 +21,16 @@ and you must kill it before you leave. Loot is dependant upon the monster you ki
 for instance, will say "Roll D6 > 4 for two chest items." This means that after you kill the monster, roll a D6 and if you get 
 a 4 or higher, you can draw 2 Chest cards. Only the leader at that turn can collect the loot from the monster or boss.
 
-If the door card is an item, you can collect that item and end your turn. 
+During combat with a monster, after each player who is in the room takes their attack turn, two D6 dice must be rolled. Since
+each player has a number (first to take their turn, second, third, etc) use the same order to assign to every even number that can be 
+rolled during the combats 2D6 roll. For instance, if you role a 4 with both dice, the second player in the order of turns takes damage
+from that monster. If you roll a 5, the monster misses its attack. Be sure to do this after each time someone attacks the monster and 
+the monster is still alive.
+
+If the door card is an item, you can collect that item and end your turn. If the door is a chest and requires a key, you can use the
+key if you have it that turn or "hold the room". Holding the room is when you set that door card aside and end your turn. If at any point y
+you find the correct key needed, you can roll a D6 to get back to that room. However, if you roll a 1-3, that means you failed to find
+the room again. If you fail after 3 attempts, you lose the room and have to put it into your discard pile. If you roll a 4-6, you find the 
+room and are able to open the chest. A player can only hold room at a time. 
 
 In order to win the game, the players must kill all 4 bosses. 
