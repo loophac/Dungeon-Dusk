@@ -1,0 +1,7 @@
+Character Class
+10 health
+5 attack
+2 defense
+The Rogue is able to avoid combat by sneaking when they choose to enter a room alone. 
+A Rogue needs to roll a D6 and get higher than a 4 (unless changed by an ability) in order to successfully sneak. 
+Failing to sneak results in -2 defense. All teammates take 1 turn each to enter room as well once a rogue sneaks.
