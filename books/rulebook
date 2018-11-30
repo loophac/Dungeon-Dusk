@@ -80,4 +80,5 @@ The blacksmith can similarly use parts to build weapons, tools and armor with bl
 they can save it in their Blueprint Book, or use items in their inventory to craft the item. Similar to an item that the Chemist makes, 
 a crafted item is placed on the table, with each part used to make it piled underneath it. 
 
+The Priest, Blacksmith, Mage and Chemist can only pray, craft, cast or brew once per turn unless an item or effect grants otherwise.
 
