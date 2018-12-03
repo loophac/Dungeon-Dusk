@@ -82,3 +82,4 @@ a crafted item is placed on the table, with each part used to make it piled unde
 
 The Priest, Blacksmith, Mage and Chemist can only pray, craft, cast or brew once per turn unless an item or effect grants otherwise.
 
+When a player uses a potion, the effects of the ingredients are ignored. Ingredient effects only take effect when eaten individually.
