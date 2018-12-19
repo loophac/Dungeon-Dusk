@@ -1,5 +1,5 @@
 # Dungeon Dusk
-© Copyright Christian Doucette 2018
+
 
 ![alt text](https://i.imgur.com/AJ3stBZ.png)
 
