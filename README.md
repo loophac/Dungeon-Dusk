@@ -1,7 +1,7 @@
 # Dungeon Dusk
 © Copyright Christian Doucette 2018
 
-![alt text](https://de15-engine.flamingtext.com/netfu/tmp28007/coollogo_com-188651512.png)
+![alt text](https://i.imgur.com/AJ3stBZ.png)
 
 A board game based on dungeon diving with insane twists, vile bosses, and infuriating concepts.
 This game, it's art*, design and property belong solely to Christian Doucette.
