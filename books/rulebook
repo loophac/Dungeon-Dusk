@@ -83,3 +83,19 @@ a crafted item is placed on the table, with each part used to make it piled unde
 The Priest, Blacksmith, Mage and Chemist can only pray, craft, cast or brew once per turn unless an item or effect grants otherwise.
 
 When a player uses a potion, the effects of the ingredients are ignored. Ingredient effects only take effect when eaten individually.
+
+Chapter 3: Combat
+
+When your team encounters an enemy, the team is given the first chance to enter a combat phase and attack unless a rogue fails their 
+sneak or a monster's ability allows it to strike first.
+
+During a combat phase, the person who is leading that turn can attack or use an item. Then it is the monster's turn to attack. All
+monsters have a default 50/50 chance of hitting or missing. During a monster(s)'s attack phase, a player must roll a D8 to see who
+gets attacked by the monster. Based off of the order of each turn, a player is a assigned a number. Whichever place you were in when it 
+was your turn, that's your number. If the D8 rolled lands on your number, the monster will be attacking you. A player must then roll 
+greater than a 3 (D6 > 3) for the monster to miss. Anything from 3 to 1 is a hit. 
+
+If a monster hits you, it deals whatever it's attack points are (plus any additional effects that boost its attack) to you. Whatever
+number it's attack is, subtract that first from your total defense (Base defense plus item/armor defense). If the attack number exceeds your
+defense count, deduct the remaining amount from your health. Armor or item defense replenishes at the end of a monster's attack phase,
+but health is only replenished by potions or food. It does not auto-regenerate.
