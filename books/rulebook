@@ -97,5 +97,8 @@ greater than a 3 (D6 > 3) for the monster to miss. Anything from 3 to 1 is a hit
 
 If a monster hits you, it deals whatever it's attack points are (plus any additional effects that boost its attack) to you. Whatever
 number it's attack is, subtract that first from your total defense (Base defense plus item/armor defense). If the attack number exceeds your
-defense count, deduct the remaining amount from your health. Armor or item defense replenishes at the end of a monster's attack phase,
+defense count, deduct the remaining amount from your health. Armor or item defense replenishes at the end of an attack phase,
 but health is only replenished by potions or food. It does not auto-regenerate.
+
+This is also true for a monster's defense. Unless and effect changes it, the monster will have its set amount of defense each time a
+player's attack phase begins, requiring the player's attack to do damage in the amount greater than the monster's defense.
